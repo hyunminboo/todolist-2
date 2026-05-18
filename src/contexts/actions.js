@@ -1,6 +1,6 @@
-export const ACTIONS={
-        INIT:'INT',
-        CREATE:'CREATE',
-        TOGGLE:'TOGGLE',
-        DELETE:'DELETE'
-}
+export const ACTIONS = {
+  INIT: "INIT",
+  CREATE: "CREATE",
+  TOGGLE: "TOGGLE",
+  DELETE: "DELETE",
+};
